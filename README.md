@@ -1,2 +1,3 @@
 # NothingToSeeHere
-I just wanted to have a place to direct a link to.
+
+The LinkedIn API credentials page wanted a url explaining what my "app" does.  My app is me exploring the LinkedIn API to see what's on there.
